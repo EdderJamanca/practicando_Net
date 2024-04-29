@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\primer_api.props" />
+</Project>
