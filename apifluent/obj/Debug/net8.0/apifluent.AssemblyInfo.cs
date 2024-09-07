@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apifluent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe18f387b46662635926e0ddbe410c557b34002")]
 [assembly: System.Reflection.AssemblyProductAttribute("apifluent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apifluent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

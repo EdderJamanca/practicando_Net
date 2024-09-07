@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Api_version2.Controllers;
 
+[Route("api/[controller]")]
 public class TareaController:ControllerBase
 {
     ITareaService TareaService;
@@ -16,17 +17,17 @@ public class TareaController:ControllerBase
     public ActionResult Get(){
         return Ok(TareaService.Get());
     }
-
+    [HttpPost]
     public IActionResult Post(Tarea tarea){
         TareaService.Save(tarea);
-        return Ok();
+        return Ok("se registro de forma exitosa");
     }
-
+    [HttpPut]
     public IActionResult Put(Guid id, [FromBody] Tarea tarea){
            TareaService.Update(id, tarea);
            return Ok();
     }
-
+    [HttpPut]
     public IActionResult Delete(Guid id){
         TareaService.Delete(id);
         return Ok();

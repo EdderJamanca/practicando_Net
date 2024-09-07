@@ -1,0 +1,17 @@
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\bin\Debug\net8.0-windows\sistemaasistencia.exe
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\bin\Debug\net8.0-windows\sistemaasistencia.deps.json
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\bin\Debug\net8.0-windows\sistemaasistencia.runtimeconfig.json
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\bin\Debug\net8.0-windows\sistemaasistencia.dll
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\bin\Debug\net8.0-windows\sistemaasistencia.pdb
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.Presentacion.MenuPrincipal.resources
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.csproj.GenerateResource.cache
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.AssemblyInfoInputs.cache
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.AssemblyInfo.cs
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.csproj.CoreCompileInputs.cache
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.sourcelink.json
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.dll
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\refint\sistemaasistencia.dll
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.pdb
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\sistemaasistencia.genruntimeconfig.cache
+C:\PROYECTO VS NET\sistemaasistencia\sistemaasistencia\obj\Debug\net8.0-windows\ref\sistemaasistencia.dll

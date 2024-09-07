@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROYECTO VS NET\\SuperHeroe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|c:\\proyecto vs net\\superheroe\\superheroe\\interface\\isuperpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|solutionrelative:superheroe\\interface\\isuperpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|c:\\proyecto vs net\\superheroe\\superheroe\\models\\superheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|solutionrelative:superheroe\\models\\superheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|c:\\proyecto vs net\\superheroe\\superheroe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|solutionrelative:superheroe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|c:\\proyecto vs net\\superheroe\\superheroe\\models\\imprimirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|solutionrelative:superheroe\\models\\imprimirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|c:\\proyecto vs net\\superheroe\\superheroe\\superheroe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|solutionrelative:superheroe\\superheroe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|c:\\proyecto vs net\\superheroe\\superheroe\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|solutionrelative:superheroe\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|c:\\proyecto vs net\\superheroe\\superheroe\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|solutionrelative:superheroe\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|c:\\proyecto vs net\\superheroe\\superheroe\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE5486B-FA48-4B46-93D1-1EFB761E5EA3}|SuperHeroe\\SuperHeroe.csproj|solutionrelative:superheroe\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImprimirInfo.cs",
+              "DocumentMoniker": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\ImprimirInfo.cs",
+              "RelativeDocumentMoniker": "SuperHeroe\\Models\\ImprimirInfo.cs",
+              "ToolTip": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\ImprimirInfo.cs",
+              "RelativeToolTip": "SuperHeroe\\Models\\ImprimirInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T01:20:55.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISuperPoder.cs",
+              "DocumentMoniker": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Interface\\ISuperPoder.cs",
+              "RelativeDocumentMoniker": "SuperHeroe\\Interface\\ISuperPoder.cs",
+              "ToolTip": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Interface\\ISuperPoder.cs",
+              "RelativeToolTip": "SuperHeroe\\Interface\\ISuperPoder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:58:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperHeroe",
+              "DocumentMoniker": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\SuperHeroe.csproj",
+              "RelativeDocumentMoniker": "SuperHeroe\\SuperHeroe.csproj",
+              "ToolTip": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\SuperHeroe.csproj",
+              "RelativeToolTip": "SuperHeroe\\SuperHeroe.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T00:57:23.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Heroe.cs",
+              "DocumentMoniker": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\Heroe.cs",
+              "RelativeDocumentMoniker": "SuperHeroe\\Models\\Heroe.cs",
+              "ToolTip": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\Heroe.cs",
+              "RelativeToolTip": "SuperHeroe\\Models\\Heroe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:32:54.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AntiHeroe.cs",
+              "DocumentMoniker": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\AntiHeroe.cs",
+              "RelativeDocumentMoniker": "SuperHeroe\\Models\\AntiHeroe.cs",
+              "ToolTip": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\AntiHeroe.cs",
+              "RelativeToolTip": "SuperHeroe\\Models\\AntiHeroe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:05:39.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperPoder.cs",
+              "DocumentMoniker": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\SuperPoder.cs",
+              "RelativeDocumentMoniker": "SuperHeroe\\Models\\SuperPoder.cs",
+              "ToolTip": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\SuperPoder.cs",
+              "RelativeToolTip": "SuperHeroe\\Models\\SuperPoder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:23:29.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperHeroes.cs",
+              "DocumentMoniker": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\SuperHeroes.cs",
+              "RelativeDocumentMoniker": "SuperHeroe\\Models\\SuperHeroes.cs",
+              "ToolTip": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Models\\SuperHeroes.cs",
+              "RelativeToolTip": "SuperHeroe\\Models\\SuperHeroes.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:22:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Program.cs",
+              "RelativeDocumentMoniker": "SuperHeroe\\Program.cs",
+              "ToolTip": "C:\\PROYECTO VS NET\\SuperHeroe\\SuperHeroe\\Program.cs",
+              "RelativeToolTip": "SuperHeroe\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv0wAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:19:55.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

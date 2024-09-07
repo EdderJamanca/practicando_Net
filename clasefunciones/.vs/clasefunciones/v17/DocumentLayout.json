@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROYECTO VS NET\\clasefunciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E18158-F81E-4512-9A1C-302C6EEB9F79}|clasefunciones\\clasefunciones.csproj|c:\\proyecto vs net\\clasefunciones\\clasefunciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E18158-F81E-4512-9A1C-302C6EEB9F79}|clasefunciones\\clasefunciones.csproj|solutionrelative:clasefunciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PROYECTO VS NET\\clasefunciones\\clasefunciones\\Program.cs",
+              "RelativeDocumentMoniker": "clasefunciones\\Program.cs",
+              "ToolTip": "C:\\PROYECTO VS NET\\clasefunciones\\clasefunciones\\Program.cs",
+              "RelativeToolTip": "clasefunciones\\Program.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAQwNAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:46:32.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

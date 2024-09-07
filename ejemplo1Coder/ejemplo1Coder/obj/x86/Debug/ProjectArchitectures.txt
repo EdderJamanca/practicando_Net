@@ -1,0 +1,1 @@
+C:\PROYECTO VS NET\ejemplo1Coder\ejemplo1Coder\ejemplo1Coder.csproj;x86

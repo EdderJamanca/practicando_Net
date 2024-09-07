@@ -1,0 +1,15 @@
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\bin\Debug\net8.0\SuperHeroe.exe
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\bin\Debug\net8.0\SuperHeroe.deps.json
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\bin\Debug\net8.0\SuperHeroe.runtimeconfig.json
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\bin\Debug\net8.0\SuperHeroe.dll
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\bin\Debug\net8.0\SuperHeroe.pdb
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\SuperHeroe.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\SuperHeroe.AssemblyInfoInputs.cache
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\SuperHeroe.AssemblyInfo.cs
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\SuperHeroe.csproj.CoreCompileInputs.cache
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\SuperHeroe.sourcelink.json
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\SuperHeroe.dll
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\refint\SuperHeroe.dll
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\SuperHeroe.pdb
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\SuperHeroe.genruntimeconfig.cache
+C:\PROYECTO VS NET\SuperHeroe\SuperHeroe\obj\Debug\net8.0\ref\SuperHeroe.dll

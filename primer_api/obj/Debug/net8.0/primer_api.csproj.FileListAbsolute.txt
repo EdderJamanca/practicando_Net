@@ -64,3 +64,4 @@ C:\PROYECTO VS NET\primer_api\obj\Debug\net8.0\refint\primer_api.dll
 C:\PROYECTO VS NET\primer_api\obj\Debug\net8.0\primer_api.pdb
 C:\PROYECTO VS NET\primer_api\obj\Debug\net8.0\primer_api.genruntimeconfig.cache
 C:\PROYECTO VS NET\primer_api\obj\Debug\net8.0\ref\primer_api.dll
+C:\PROYECTO VS NET\primer_api\obj\Debug\net8.0\primer_api.sourcelink.json
